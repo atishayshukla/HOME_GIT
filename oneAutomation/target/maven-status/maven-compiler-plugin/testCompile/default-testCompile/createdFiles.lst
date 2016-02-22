@@ -1,0 +1,6 @@
+oneAutomation\MobileBaseTest.class
+oneAutomation\MobileTests\LoginPageTest.class
+oneAutomation\WebAndMobEndToEnd\LanguageUpdateTest.class
+oneAutomation\WebTests\RegistrationPageTest.class
+oneAutomation\WebTests\CountTotalNoOfBoxTest.class
+oneAutomation\BaseTest.class
